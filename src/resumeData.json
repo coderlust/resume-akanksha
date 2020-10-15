@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name":"Akanksha Agarwal",
+    "description":"My Speciality is in Adobe Analytics where I generate scripts which then implemented on the variety of sites to track the user activity",
+    "image":"profilepic.jpg",
+    "bio":"I am an Analyst and I love to learn new tools. Every Analyst thinks in a very unique way and implement the same in their day to day activities. In my free time I love listening songs, chit chatting with friends",
+    "contactmessage":"Feel free to reach out to me.",
+    "email": "akanksha.agarwal5570@gmail.com",
+    "phone": "+91-7517284754",
+    "github":"",
+    "project":"",
+    "address":{
+      "city":"Pune",
+      "state":"Maharashtra",
+      "zip": "411 027"
+    },
+    "website": "",
+    "resumedownload":"my-resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/akanksha-agarwal-191096/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Sastra University",
+        "degree":"Masters of Computer Application",
+        "graduated":"July 2020",
+        "description": [
+          "Corresponding course while working in TCS"
+        ]
+      },
+      {
+        "school":"S.E.M.S Koregaon",
+        "degree":"High School",
+        "graduated":"March 2011",
+        "description": [
+          "Completed high-school education"
+        ]
+      }
+    ],
+    "work":[
+      {
+        "company":"TATA Consultancy Services",
+        "title":"Analyst",
+        "years":"July 2017 - Present",
+        "projects": [
+          "Created Kolam colouring project"
+        ],
+        "achievements": [
+          "Received appreciation from clients for the support given",
+          "Received Larning achievement award"
+        ],
+        "certifications": [
+          "Certified Adobe Analytics Business practitioner"
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Adobe Analytics",
+        "level":"90%"
+      },
+      {
+        "name":"Google Analytics",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      
+    ]
+  }
+}
