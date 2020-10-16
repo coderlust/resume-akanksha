@@ -24,6 +24,19 @@ const Resume = ({ data }) => {
     }
   }
 
+  const showArticles = articles => {
+    if (articles) {
+      return <div>
+        <strong>Articles</strong>
+        <ol>
+          {articles.map((article, i) => (
+            <li key={i}>{article}</li>
+          ))}
+        </ol>
+      </div>
+    }
+  }
+
   const showWork = () => {
     if (data) {
       return data.work.map((work) => {
@@ -52,12 +65,7 @@ const Resume = ({ data }) => {
                 <li key={i}>{certification}</li>
               ))}
             </ol>
-            <strong>Articles</strong>
-            <ol>
-              {work.articles.map((article, i) => (
-                <li key={i}>{article}</li>
-              ))}
-            </ol>
+            {showArticles(work.articles)}
           </div>
         )
       })

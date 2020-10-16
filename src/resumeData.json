@@ -7,8 +7,8 @@
     "contactmessage":"Feel free to reach out to me.",
     "email": "akanksha.agarwal5570@gmail.com",
     "phone": "+91-7517284754",
-    "github":"",
-    "project":"",
+    "github":"https://github.com/coderlust",
+    "project":"https://github.com/coderlust/resume-akanksha",
     "address":{
       "city":"Pune",
       "state":"Maharashtra",
@@ -18,24 +18,14 @@
     "resumedownload":"my-resume.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/akanksha-agarwal-191096/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"",
+        "url":"https://www.instagram.com/akanksha_ag1910/",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"",
-        "className":"fa fa-github"
       }
     ]
   },

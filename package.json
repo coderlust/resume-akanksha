@@ -20,6 +20,7 @@
     "prettier": "prettier --write --no-semi --single-quote \"src/**/*.js\""
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
